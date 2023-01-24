@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+date: 2023-01-24 19:31:00-0400
+inline: true #inline option designate the form of the announcement(e.g. long or short)
 ---
 
-A simple inline announcement.
+:construction:DEANs Lab page is now in construction:construction:
