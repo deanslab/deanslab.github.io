@@ -27,9 +27,9 @@
       description:
         - title: Bachelor thesis
           contents:
-          - Title ":" Review on interfacial phenomena of silicon-based anodes for lithium-ion batteries and research on general requirements of electrolyte additives by using QSPR ML model
-          - Advisor ":" Prof. Wonbae Kim
-        - Summa Cum Laude(GPA":" 4.06/4.3)
+          - "Title : Review on interfacial phenomena of silicon-based anodes for lithium-ion batteries and research on general requirements of electrolyte additives by using QSPR ML model"
+          - "Advisor : Prof. Wonbae Kim"
+        - "Summa Cum Laude(GPA : 4.06/4.3)""
 
 - title: Experience
   type: time_table
