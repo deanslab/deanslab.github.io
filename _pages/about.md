@@ -6,7 +6,7 @@ subtitle: Master student, Chemical Engineering, KAIST
 
 profile:
   align: right
-  image: /assets/image/hogcover.jpg #prof_pic.jpg
+  image: hahayes.jpg #prof_pic.jpg
   image_circular: false # crops the image to make it circular
   #address: >
   #  <p>Applied Eng. Bldg. #6114</p>
