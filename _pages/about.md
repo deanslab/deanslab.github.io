@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Applied Eng. Bldg. #6114</p>
-    <p>291 Daehak-ro</p>
-    <p>Yuseong-gu, Daejeon, Republic of Korea, 34141</p>
+  #address: >
+  #  <p>Applied Eng. Bldg. #6114</p>
+  #  <p>291 Daehak-ro</p>
+  #  <p>Yuseong-gu, Daejeon, Republic of Korea, 34141</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
