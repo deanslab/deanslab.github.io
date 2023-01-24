@@ -13,19 +13,23 @@
   contents:
     - title: Master of Chemical and Biomolecular Engineering
       institution: Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea
-      year: 2024
+      year: 2025
       description:
-        - Major in Chemical and Biomolecular Engineering
         - title: Major publications
           contents:
             - Sub-description 1.
+        - title: Mastor thesis
+          contents:
             - Sub-description 2.
-    - title: Bachelor of Engineering
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Chemical Engineering
+      institution: Pohang University of Science and Technology, Pohang, Republic of Korea
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - title: Bachelor thesis
+          contents:
+          - Title ":" Review on interfacial phenomena of silicon-based anodes for lithium-ion batteries and research on general requirements of electrolyte additives by using QSPR ML model
+          - Advisor ":" Prof. Wonbae Kim
+        - Summa Cum Laude(GPA":" 4.06/4.3)
 
 - title: Experience
   type: time_table
