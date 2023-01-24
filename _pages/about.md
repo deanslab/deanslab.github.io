@@ -14,12 +14,10 @@ profile:
     <p>Yuseong-gu, Daejeon, Republic of Korea, 34141</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta odio sollicitudin, viverra velit eu, auctor libero. Maecenas a lectus at eros tristique malesuada id eu elit. Quisque eros arcu, vestibulum sit amet quam quis, rhoncus faucibus erat. Morbi sed mauris non eros dapibus pellentesque. Nulla hendrerit interdum lacus nec eleifend. Pellentesque vitae arcu mollis massa lobortis tincidunt. Curabitur eget nulla quis metus cursus condimentum sit amet eu magna. Ut fermentum ante at posuere pellentesque. Cras in ornare augue. Aliquam vel lorem vel lectus gravida ultrices. Praesent dignissim velit in sem placerat sollicitudin. Pellentesque porta diam nisi, at blandit dolor scelerisque vel. In laoreet iaculis nisi, ut imperdiet urna sagittis id. Aenean interdum sapien arcu, sed faucibus leo eleifend quis. Praesent dolor ligula, mattis in fringilla eu, tristique sed ante.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Integer a maximus odio. Nunc quis viverra ipsum. Morbi libero mauris, blandit convallis magna a, vestibulum facilisis dui. Duis ipsum ante, porttitor ac quam vel, malesuada molestie ante. Pellentesque consequat nunc at felis egestas, id rutrum massa pharetra. Ut sollicitudin sem at lectus dapibus, vitae feugiat leo rhoncus. Fusce viverra tempor tempus. Aenean vehicula eros sit amet erat cursus, vitae eleifend tellus pharetra. Donec et euismod ligula. Quisque hendrerit nisl vel metus venenatis, ut eleifend eros pellentesque. Vestibulum a pulvinar justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum justo leo, tempus sit amet nisl sed, tristique pharetra justo. Donec hendrerit purus id sapien tristique, eu aliquet felis tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi ut lorem urna.
