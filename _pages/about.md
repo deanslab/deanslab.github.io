@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta odio sollicitudin, viverra velit eu, auctor libero. Maecenas a lectus at eros tristique malesuada id eu elit. Quisque eros arcu, vestibulum sit amet quam quis, rhoncus faucibus erat. Morbi sed mauris non eros dapibus pellentesque. Nulla hendrerit interdum lacus nec eleifend. Pellentesque vitae arcu mollis massa lobortis tincidunt. Curabitur eget nulla quis metus cursus condimentum sit amet eu magna. Ut fermentum ante at posuere pellentesque. Cras in ornare augue. Aliquam vel lorem vel lectus gravida ultrices. Praesent dignissim velit in sem placerat sollicitudin. Pellentesque porta diam nisi, at blandit dolor scelerisque vel. In laoreet iaculis nisi, ut imperdiet urna sagittis id. Aenean interdum sapien arcu, sed faucibus leo eleifend quis. Praesent dolor ligula, mattis in fringilla eu, tristique sed ante.
 
-![hahayes](~/hogcover.jpg)
+![hahayes](assets/img/hogcover.jpg)
